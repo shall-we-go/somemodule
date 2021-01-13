@@ -1,4 +1,4 @@
-package somemodule/v2
+package somemodule
 
 import (
 	quote "rsc.io/quote"
