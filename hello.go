@@ -5,7 +5,7 @@ import (
 )
 
 func Hello() string {
-	return quoteV3.HelloV3() + " v0.2.0"
+	return quoteV3.HelloV3() + " v1.1.0"
 }
 
 func Proverb() string {
